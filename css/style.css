@@ -20,7 +20,7 @@ main {
 }
 
 header {
-    padding: 24px 200px;
+    padding: 24px 411px;
     vertical-align: middle;
     margin-bottom: 0;
 
@@ -60,7 +60,6 @@ nav, nav > ul {
 }
 address {
     display: inline-block;
-    margin-left: 332px;
 
 }
 
@@ -214,7 +213,7 @@ address {
 }
 footer{
     background-color: var(--dark);
-    padding: 100px 1020px 100px 196px;
+    padding: 100px 1020px 100px 411px;
 }
 .footer-span {
     color: var(--white-text);
