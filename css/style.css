@@ -235,6 +235,7 @@ nav, nav > ul {
     font-size: 20px;
     line-height: 1.2;
     color: var(--dark);
+    letter-spacing: 0.02em;
 }
 .our_team_position {
     margin-top: -8px;
@@ -308,11 +309,13 @@ nav, nav > ul {
     font-size: 20px;
     line-height: 1.2;
     color: var(--dark);
+    letter-spacing: 0.02em
 }
 .potfolio-card-txt {
     font-size: 16px;
     line-height: 1.5;
-    color: var(--text)
+    letter-spacing: 0.02em;
+    color:  var(--text);
 }
 
 .portfolio-card-head, .potfolio-card-txt {
