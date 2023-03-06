@@ -234,8 +234,9 @@ nav, nav > ul {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    color: var(--dark);
     letter-spacing: 0.02em;
+    color: var(--dark);
+    
 }
 .our_team_position {
     margin-top: -8px;
@@ -308,8 +309,9 @@ nav, nav > ul {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: var(--dark);
-    letter-spacing: 0.02em
+    
 }
 .potfolio-card-txt {
     font-size: 16px;
